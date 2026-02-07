@@ -1,2 +1,2 @@
-# course-nestjs
-NC Course - NestJS
+# COUURSE JS TS BACKEND
+NC Course - JS TS BACKEND
